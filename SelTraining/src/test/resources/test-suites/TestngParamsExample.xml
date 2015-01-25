@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Params Example" preserve-order="true">
+	<test name="TestNG Params Example">
+		<parameter name="foo" value="bar_from_testng"></parameter>
+		<classes>
+			<class name="com.sample.TestNGParameterExample" />
+		</classes>
+	</test>
+</suite>
