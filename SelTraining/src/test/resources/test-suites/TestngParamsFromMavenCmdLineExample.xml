@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Params Example" preserve-order="true">
+	<test name="TestNG Params Example">
+		<classes>
+			<!-- <class name="com.sample.ReadingValueFromMvnCmdArgs" /> -->
+			<class name="com.sample.TestNGParameterExample" />
+
+		</classes>
+	</test>
+</suite>
