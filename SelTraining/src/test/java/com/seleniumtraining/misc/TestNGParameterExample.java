@@ -1,4 +1,4 @@
-package com.sample;
+package com.seleniumtraining.misc;
 
 import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;

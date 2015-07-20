@@ -1,4 +1,4 @@
-package com.sample;
+package com.seleniumtraining.misc;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
